@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif; }
+
+.test {
+  height: 40em;
+  overflow-y: scroll;
+  border-bottom: solid black 0.3em; }
+
+section {
+  width: 100%; }
+
+form {
+  text-align: right; }
+
+input {
+  font-size: 1em;
+  margin-top: 1em;
+  padding: 1em;
+  border-radius: 6px;
+  color: #7ED2F7;
+  outline: none; }
+
+button {
+  font-size: 1em;
+  margin-right: 1em;
+  border: none;
+  padding: 1em;
+  border-radius: 6px;
+  outline: none;
+  background: #7ED2F7;
+  color: white; }
+
+#chat {
+  display: none; }
+
+.post {
+  font-size: 2em;
+  color: #7ED2F7; }
+
+.user {
+  color: #F79B00; }
+
+.time {
+  font-size: .5em; }
